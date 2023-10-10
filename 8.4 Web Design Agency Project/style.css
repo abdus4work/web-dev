@@ -19,3 +19,42 @@ footer {
   color: midnightblue;
 }
 
+.creative{
+  color:#191970;
+}
+.title-image{
+  height: 200px;
+  float:left;
+  margin-right: 50px;
+}
+.left{
+  float:left
+}
+.right{
+  float:right;
+}
+.card{
+  width:45%;
+}
+@media (max-width:680px){
+  .logo{
+    width:100px;
+  }
+  h1{
+    font-size: 3.5rem;
+    text-align: center;
+    
+  }
+  .card{
+    width: 100%;
+    display: block;
+    text-align: justify;
+    margin-bottom: 30px;
+  }
+  .card img{
+    display: inline;
+    object-fit: cover;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
