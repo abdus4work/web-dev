@@ -26,3 +26,10 @@
   height: 100px;
   border-radius: 50%;
 }
+.card:hover{
+  transform: scale(1.01);
+}
+
+section{
+  display: block;
+}
