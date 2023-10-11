@@ -1,5 +1,5 @@
 {
     "editor.fontSize": 20,
-    "editor.fontFamily": "'MonoLisa','ubuntu'",
+    "editor.fontFamily": "'MonoLisa','ubuntu',monospace,'MonoLisa'",
     "terminal.integrated.fontSize": 18
 }
