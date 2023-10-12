@@ -33,3 +33,6 @@
 section{
   display: block;
 }
+.card{
+  box-shadow: 5px 5px 20px rgb(193, 185, 185) !important;
+}
